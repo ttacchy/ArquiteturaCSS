@@ -1,8 +1,8 @@
 /* CSS Document */
-.menu__item {
+.menu-item {
     list-style: none;
 }
 
-.menu__item:last-child .menu__link{
+.menu-item:last-child .menu-link{
     margin-right: 0;
 }
